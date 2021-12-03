@@ -1,5 +1,5 @@
 ## Welcome to my site
-This is my site where I upload all my projects!
+This is my site where I upload all my projects! This site was started on December 2nd, 2021. It contains many tutorials. 
 # Games
 # Tutorials
 There is the variety of tutorials to enjoy on this site. Using these guides you can make many different things. Here they are, by how recent the tutorial was made. 
